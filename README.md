@@ -31,6 +31,15 @@ I am a dedicated **Senior Mobile Developer** specializing in **Flutter** with **
 
 ---
 
+### 🛠️ Other Key Projects & Solutions
+* 🏢 **Aminco (HR System):** Developed a specialized HR management app featuring **Biometric/Fingerprint authentication**.
+* 🚛 **Logistics & ERP:** Integrated **Odoo ERP** with mobile solutions and built **Warehouse/Trip Management** systems.
+* 🚗 **Go Car:** Real-time vehicle tracking and rental management system.
+* 💬 **Social & Chat:** Built real-time communication platforms using **Socket.io**.
+* 🛒 **E-commerce:** Developed full-featured shopping apps with **Stripe/Telr** payment gateways.
+
+---
+
 ### 📊 GitHub Ecosystem & Proficiency
 <p align="center">
   <table align="center">
@@ -51,16 +60,7 @@ I am a dedicated **Senior Mobile Developer** specializing in **Flutter** with **
 
 ---
 
-### 🛠️ Other Key Projects & Solutions
-* 🏢 **Aminco (HR System):** Developed a specialized HR management app featuring **Biometric/Fingerprint authentication**.
-* 🚛 **Logistics & ERP:** Integrated **Odoo ERP** with mobile solutions and built **Warehouse/Trip Management** systems.
-* 🚗 **Go Car:** Real-time vehicle tracking and rental management system.
-* 💬 **Social & Chat:** Built real-time communication platforms using **Socket.io**.
-* 🛒 **E-commerce:** Developed full-featured shopping apps with **Stripe/Telr** payment gateways.
-
----
-
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack & Skills Summary
 - **State Management:** BLoC, Cubit, Provider.
 - **Backend & APIs:** Firebase, REST APIs (Dio), WebSockets (Socket.io).
 - **Integrations:** Google Maps API, Payment Gateways (Stripe, Telr), Push Notifications (FCM).
