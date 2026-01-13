@@ -4,44 +4,57 @@
   </a>
 </p>
 
-<h2>About Me</h2>
-<p>
-Hi, I'm <strong>Mahmoud Rabie</strong>, a Flutter Developer with 3 years of professional experience building scalable mobile applications. I have a strong foundation in Clean Architecture, Bloc/Cubit state management, REST APIs, Firebase, and payment integration. I also have some experience in AI concepts and enjoy applying modern technologies to solve real-world problems.
-</p>
+## About Me
+Hi, I'm **Mahmoud Rabie**, a Flutter Developer with 3 years of professional experience building scalable mobile applications.  
+I have a strong foundation in **Clean Architecture, Bloc/Cubit state management, REST APIs, Firebase**, and **payment integration**.  
+I also have experience in **AI (Deep Learning & NLP basics)** and enjoy applying modern technologies to solve real-world problems.
 
-<h2>Featured Apps on Google Play</h2>
-<ul>
-  <li><a href="https://play.google.com/store/apps/details?id=com.mahmoudrabie.rafiqalmumin" target="_blank">Rafiq Al Mumin</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.codeforce.TestManagement" target="_blank">Test Management App</a></li>
-  <li><a href="https://play.google.com/store/apps/details?id=com.novelcompany.trip_go" target="_blank">Trip Go App</a></li>
-</ul>
+---
 
-<h2>Skills & Tech Stack</h2>
-<ul>
-  <li>Flutter & Dart (3 years)</li>
-  <li>Bloc / Cubit, Provider</li>
-  <li>Clean Architecture & SOLID Principles</li>
-  <li>REST APIs, Dio, HTTP</li>
-  <li>Firebase, Notifications, Real-Time Updates (Socket.io)</li>
-  <li>Payment Integration (Telr, Stripe, others)</li>
-  <li>Local Storage: SharedPreferences, SQFlite, Hive</li>
-  <li>Google Maps & Pagination</li>
-  <li>Unit, Widget & Integration Testing</li>
-  <li>AI Basics & Machine Learning Concepts</li>
-  <li>Version Control: Git & GitHub Workflow</li>
-  <li>App Deployment: Publishing on Google Play</li>
-</ul>
+## Featured Apps on Google Play
+- [Rafiq Al Mumin](https://play.google.com/store/apps/details?id=com.mahmoudrabie.rafiqalmumin)  
+- [Test Management App](https://play.google.com/store/apps/details?id=com.codeforce.TestManagement)  
+- [Trip Go App](https://play.google.com/store/apps/details?id=com.novelcompany.trip_go)  
 
-<h2>Soft Skills</h2>
-<ul>
-  <li>Communication & Teamwork</li>
-  <li>Time Management & Multitasking</li>
-  <li>Leadership & Mentorship</li>
-  <li>Problem Solving & Self-Learning</li>
-  <li>Ability to adapt & learn new tasks quickly</li>
-</ul>
+---
 
-<h2>GitHub Stats</h2>
+## Skills & Tech Stack
+
+### Flutter & Mobile Development
+- Flutter & Dart (3 years)  
+- Bloc / Cubit, Provider  
+- Clean Architecture & SOLID Principles  
+- Responsive & Adaptive UI  
+
+### Backend & APIs
+- REST APIs: Dio, HTTP  
+- Firebase, Notifications  
+- Real-Time Updates (Socket.io)  
+- Payment Integration: Telr, Stripe, others  
+
+### Storage & Tools
+- Local Storage: SharedPreferences, SQFlite, Hive  
+- Google Maps & Pagination  
+- Version Control: Git & GitHub Workflow  
+- App Deployment: Publishing on Google Play  
+
+### AI / Machine Learning
+- Deep Learning fundamentals (completed)  
+- Basics of Natural Language Processing (NLP)  
+- Applied AI concepts for mobile apps  
+
+---
+
+## Soft Skills
+- Communication & Teamwork  
+- Time Management & Multitasking  
+- Leadership & Mentorship  
+- Problem Solving & Self-Learning  
+- Ability to adapt & learn new tasks quickly  
+
+---
+
+## GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical" alt="GitHub Stats">
 </p>
