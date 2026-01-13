@@ -8,6 +8,9 @@
   <a href="https://wa.me/201153562994">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
+  <a href="mailto:mahmoudrabea082@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   <img src="https://img.shields.io/badge/Rank-A%2B-brightgreen?style=for-the-badge&logo=github" />
 </p>
 
@@ -74,5 +77,7 @@ I am a dedicated **Senior Mobile Developer** specializing in **Flutter** with **
 * 🔗 **LinkedIn:** [Mahmoud Mohamed Rabie](https://www.linkedin.com/in/mahmoud-mohammed-4009711b3)
 
 *"The best way to predict the future is to invent it."*
+
 ---
+
 ⭐️ From **Mahmoud Rabie**
