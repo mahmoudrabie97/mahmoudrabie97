@@ -1,5 +1,3 @@
-<img src="https://github.com/Mokkapps/mokkapps/blob/master/header.png" alt="Mahmoud Rabie GitHub README header image">
-
 <p>
   <a href="https://www.linkedin.com/in/mahmoud-mohammed-4009711b3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
