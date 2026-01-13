@@ -40,20 +40,24 @@ I am a dedicated **Senior Mobile Developer** specializing in **Flutter** with **
 
 ---
 
-### 🛠️ Tech Stack & Skills
-- **State Management:** BLoC, Cubit, Provider.
-- **Backend & APIs:** Firebase, REST APIs (Dio), WebSockets (Socket.io).
-- **Integrations:** Google Maps API, Payment Gateways, Push Notifications (FCM).
-- **Business Logic:** Odoo Customization, Biometric Auth, Real-time Tracking.
+### 📊 GitHub Activity & Skills Distribution
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" alt="Mahmoud's Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabie97&theme=radical" alt="GitHub Streak" />
+</p>
 
 ---
 
-### 📊 GitHub Statistics
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabie97&theme=radical" />
-</p>
+### 🛠️ Tech Stack & Skills
+- **State Management:** BLoC, Cubit, Provider.
+- **Backend & APIs:** Firebase, REST APIs (Dio), WebSockets (Socket.io).
+- **Integrations:** Google Maps API, Payment Gateways (Stripe, Telr), Push Notifications (FCM).
+- **Business Logic:** Odoo Customization, Biometric Auth, Real-time Tracking.
 
 ---
 
