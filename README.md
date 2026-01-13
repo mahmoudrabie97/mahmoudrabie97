@@ -13,25 +13,18 @@
 
 ---
 
-### 🏆 Professional Highlights
-- 🎖️ **Ranked A+** on GitHub (Top Tier Developer Activity).
-- 🤝 **70+ Pull Requests** (Deeply experienced in Team Collaboration & Git Flow).
-- 🚀 **300+ Contributions** in building scalable mobile solutions.
-- 📱 **3+ Published Apps** on Google Play Store.
+### 📖 Professional Summary
+A result-driven **Cross-Platform Mobile Developer** with over **3 years of experience** in the industry. I specialize in building high-performance applications for **iOS and Android** using a single codebase.
+
+* 🚀 **Architecture:** Expert in **Clean Architecture** & **SOLID Principles**.
+* 🛠️ **State Management:** Advanced implementation of **Bloc/Cubit**.
+* 💳 **Fintech:** Extensive experience in integrating **Stripe, Telr**, and local payment gateways.
+* 🤖 **Innovation:** Enthusiastic about bridging **AI & Machine Learning** with mobile ecosystems.
 
 ---
 
-### 📖 About Me
-I am a dedicated **Cross-Platform Mobile Developer** specializing in **Flutter**. I have a proven track record of **3+ years** building high-performance, native-like applications for both **iOS and Android**.
-
-* 🚀 Advanced in **Clean Architecture** & **State Management (Bloc/Cubit)**.
-* 💳 Specialized in **Fintech** & **Payment Gateways** (Stripe, Telr).
-* 🧠 Passionate about **AI integration** in mobile ecosystems.
-
----
-
-### 📱 Featured Projects
-| App Name | Platform | Link |
+### 📱 Published Work (Google Play)
+| App Name | Platform | Links |
 | :--- | :---: | :--- |
 | **Rafiq Al Mumin** | Android & iOS | [🔗 View on Store](https://play.google.com/store/apps/details?id=com.mahmoudrabie.rafiqalmumin) |
 | **Test Management App** | Android & iOS | [🔗 View on Store](https://play.google.com/store/apps/details?id=com.codeforce.TestManagement) |
@@ -50,21 +43,24 @@ I am a dedicated **Cross-Platform Mobile Developer** specializing in **Flutter**
 
 ---
 
-### 📊 GitHub Ecosystem
+### 📊 GitHub Real-time Activity
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical" alt="Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" alt="Mahmoud's Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabie97&theme=radical" alt="Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabie97&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 📞 Connect with me
-- **WhatsApp:** [+201153562994](https://wa.me/201153562994)
-- **LinkedIn:** [Mahmoud Rabie](https://www.linkedin.com/in/mahmoud-mohammed-4009711b3)
+### 📞 Contact & Collaboration
+* **WhatsApp:** [+201153562994](https://wa.me/201153562994)
+* **LinkedIn:** [Mahmoud Rabie](https://www.linkedin.com/in/mahmoud-mohammed-4009711b3)
+* **Status:** Available for new opportunities and technical consultations.
 
-*"Crafting seamless experiences through clean and efficient code."*
+*"Committed to writing clean, maintainable, and efficient code."*
