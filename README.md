@@ -49,9 +49,9 @@ I am a dedicated **Cross-Platform Mobile Developer** specializing in **Flutter**
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-git-master-jstin.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" alt="Mahmoud's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" alt="Mahmoud's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats-git-master-jstin.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
