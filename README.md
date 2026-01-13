@@ -17,13 +17,12 @@
 I am a dedicated **Senior Mobile Developer** specializing in **Flutter** with **3+ years** of professional experience. I build high-performance, scalable applications for both **iOS and Android** from scratch to production.
 
 * 🏗️ **Architecture:** Expert in **Clean Architecture** & **SOLID Principles**.
-* 📱 **Mobile Expert:** Advanced in **BLoC/Cubit, Provider** and responsive UI design.
-* 🤖 **AI Enthusiast:** Knowledgeable in **Machine Learning, Deep Learning, and NLP** fundamentals.
+* 🤖 **AI Enthusiast:** Deeply involved in **Machine Learning, Deep Learning, and NLP** fundamentals.
 * 🎓 **Engineering:** Graduate of **Menofia University** (Computer Engineering) with an **Excellent** grade in my graduation project.
 
 ---
 
-### 📱 Featured Commercial Apps
+### 📱 Featured Commercial Apps (On Stores)
 | App Name | Category | Key Features | Link |
 | :--- | :--- | :--- | :--- |
 | **Rafiq Al Mumin** | Islamic | Prayer times, Quran, Azkar, Qibla | [🔗 Play Store](https://play.google.com/store/apps/details?id=com.mahmoudrabie.rafiqalmumin) |
@@ -32,17 +31,20 @@ I am a dedicated **Senior Mobile Developer** specializing in **Flutter** with **
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Other Key Projects & Solutions
+* 🏢 **Aminco (HR System):** Developed a specialized HR management app featuring **Biometric/Fingerprint authentication**.
+* 🚛 **Logistics & ERP:** Integrated **Odoo ERP** with mobile solutions and built **Warehouse/Trip Management** systems.
+* 🚗 **Go Car:** Real-time vehicle tracking and rental management system.
+* 💬 **Social & Chat:** Built real-time communication platforms using **Socket.io**.
+* 🛒 **E-commerce:** Developed full-featured shopping apps with **Stripe/Telr** payment gateways.
 
-#### 💻 Mobile Development
+---
+
+### 🛠️ Tech Stack & Skills
 - **State Management:** BLoC, Cubit, Provider.
 - **Backend & APIs:** Firebase, REST APIs (Dio), WebSockets (Socket.io).
-- **Integrations:** Stripe & Telr (Fintech), Biometric Auth, Google Maps.
-- **Local Storage:** Hive, SQFlite, SharedPreferences.
-
-#### 🤖 AI & Business Solutions
-- **AI/ML:** Machine Learning, Deep Learning, and NLP fundamentals.
-- **Enterprise:** Odoo ERP implementation and mobile-business integration.
+- **Integrations:** Google Maps API, Payment Gateways, Push Notifications (FCM).
+- **Business Logic:** Odoo Customization, Biometric Auth, Real-time Tracking.
 
 ---
 
