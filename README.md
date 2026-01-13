@@ -1,5 +1,5 @@
 # Hi there, I'm Mahmoud Rabie 👋
-### Senior Flutter Developer | Android & iOS Expert | 3+ Years Experience
+### Senior Flutter Developer | Android & iOS Expert | AI Enthusiast | 3+ Years Experience
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmoud-mohammed-4009711b3">
@@ -17,10 +17,12 @@
 ---
 
 ## 📖 About Me
-I am a dedicated **Cross-Platform Mobile Developer** specializing in **Flutter**. With **3+ years** of professional experience, I build high-performance, scalable applications for both **iOS and Android** from scratch to production.
+I am a dedicated **Cross-Platform Mobile Developer** specializing in **Flutter** with a passion for **AI integration**. With **3+ years** of professional experience, I build high-performance, scalable applications for both **iOS and Android** from scratch to production.
 
 * 📱 Expert in **Flutter** & **Dart** - One codebase, two platforms
 * 🏗️ Advanced in **Clean Architecture** & **State Management (BLoC/Cubit, Provider)**
+* 🤖 **AI & ML Enthusiast** - Machine Learning, Deep Learning, NLP fundamentals
+* 💼 **Business Systems** - Odoo ERP implementation and customization
 * 💳 Experienced in **Payment Gateways** (Stripe, Telr) & **Fintech** solutions
 * 🔐 Specialized in **Biometric Authentication**, **Real-time Chat**, **HR Management Systems**
 * 🎓 **Engineering Graduate** - Computer Engineering, Menofia University
@@ -40,6 +42,7 @@ I am a dedicated **Cross-Platform Mobile Developer** specializing in **Flutter**
 - **HR Management (Aminco)** - Fingerprint/Biometric authentication system
 - **Social Apps** - Real-time chat using Socket.io
 - **Travel & Logistics** - Car rental, warehouse, trip management
+- **Odoo Business Apps** - ERP customization and mobile integration
 - [🔗 View all projects on GitHub](https://github.com/mahmoudrabie97?tab=repositories)
 
 ---
@@ -52,14 +55,33 @@ I am a dedicated **Cross-Platform Mobile Developer** specializing in **Flutter**
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) 
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 
+### **AI & Machine Learning:**
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
+
+### **Business Systems:**
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
+
 ### **Core Skills:**
 - **Architecture:** Clean Architecture, SOLID Principles, MVVM, Design Patterns
 - **State Management:** BLoC, Cubit, Provider
 - **Backend:** Firebase, REST APIs (Dio, HTTP), WebSockets, Socket.io
 - **Local Storage:** Hive, SQFlite, SharedPreferences
+- **AI/ML:** Machine Learning, Deep Learning, Natural Language Processing (NLP) fundamentals
+- **Business:** Odoo ERP - Implementation, customization, and mobile integration
 - **Advanced Features:** Google Maps, FCM, Biometric Auth, Payment Gateways, Localization
 - **Testing:** Unit Testing, Widget Testing, Integration Testing
 - **Tools:** Git/GitHub, Postman, Figma
+
+---
+
+## 🤖 AI & Business Integration
+- 🧠 **Machine Learning:** Building predictive models and data-driven solutions
+- 🎯 **Deep Learning:** Neural networks and advanced AI applications
+- 💬 **NLP:** Natural Language Processing for chatbots and text analysis
+- 📊 **Business Intelligence:** Integrating AI insights into mobile applications
+- 🏢 **Odoo ERP:** Custom modules, workflows, and mobile app integration for business automation
 
 ---
 
@@ -84,9 +106,9 @@ I am a dedicated **Cross-Platform Mobile Developer** specializing in **Flutter**
 ---
 
 <p align="center">
-  <i>"Clean code is not written by following a set of rules. You know you are working with clean code when each routine you read turns out to be pretty much what you expected."</i>
+  <i>"The best way to predict the future is to invent it."</i>
   <br/>
-  <b>- Robert C. Martin</b>
+  <b>- Alan Kay</b>
 </p>
 
 <p align="center">
