@@ -1,5 +1,5 @@
 # Hi there, I'm Mahmoud Rabie 👋
-### Senior Flutter Developer | Android & iOS Expert | 3+ Years Experience
+### Senior Flutter Developer | Android & iOS Expert | Engineering Graduate
 
 <p align="left">
   <a href="https://www.linkedin.com/in/mahmoud-mohammed-4009711b3">
@@ -13,34 +13,34 @@
 
 ---
 
-### 🏆 Professional Highlights (From My Experience)
-- 🚀 **Full Lifecycle Development:** Delivered 10+ mobile projects from initial concept/scratch to App Store deployment.
-- 🎓 **Mentorship:** Successfully mentored and onboarded junior developers and interns into professional production teams.
-- 🏢 **Industry Diversity:** Built solutions for E-commerce, HR Management (Self-Service), Fintech, and Real-time Tracking (Go Car).
-- 🎖️ **Ranked A+** on GitHub with a strong focus on **Clean Architecture** and **SOLID Principles**.
+### 🏆 Professional Highlights
+- 🎓 **Engineering Graduate:** Bachelor’s Degree in **Computer Engineering** with an **Excellent** grade in my graduation project.
+- 🚀 **Full Ownership:** Experienced in managing the entire app lifecycle, from gathering requirements and UI design to publishing on **Google Play Store**.
+- 🤝 **Leadership:** Proven ability to mentor junior developers and lead technical tasks within professional production teams.
+- 🎖️ **Tech Excellence:** Strong advocate for **Clean Architecture** and **SOLID Principles**, maintaining an **A+ Rank** on GitHub.
 
 ---
 
 ### 📖 About Me
-A Computer Science Graduate (Excellent Grade in Graduation Project) and a result-driven **Senior Flutter Developer** with **3+ years** of professional experience. I specialize in turning complex client requirements into scalable, maintainable mobile applications.
+A dedicated **Senior Flutter Developer** with **3+ years** of professional experience. I specialize in converting complex business requirements into high-performance, scalable mobile applications for **iOS and Android**.
 
-* 📱 **Platform:** Expert in iOS & Android (Cross-platform excellence).
-* 🛠️ **State Management:** Advanced implementation of **BLoC & Cubit**.
-* 💳 **Fintech & Security:** Experienced in **Stripe/Telr** payments and **Biometric (Fingerprint)** systems.
-* 🧠 **AI Integration:** Applying Deep Learning & NLP fundamentals to mobile apps.
+* 🛠️ **State Management:** Expert implementation using **BLoC, Cubit, and Provider**.
+* 💳 **Integrations:** Deep experience in **Payment Gateways** (Stripe, Telr), **Firebase**, and **Real-time WebSockets**.
+* 🧠 **AI Enthusiast:** Applying Deep Learning & NLP fundamentals to enhance mobile user experiences.
+* 🔐 **Specialized Solutions:** Developed diverse systems including **E-commerce, HR Management (Biometric/Fingerprint), and Tracking apps**.
 
 ---
 
 ### 📱 Featured Commercial Apps
-| App Name | Industry | Store Link |
+| App Name | Industry | Link |
 | :--- | :---: | :--- |
-| **Rafiq Al Mumin** | Religion/Utility | [🔗 Google Play](https://play.google.com/store/apps/details?id=com.mahmoudrabie.rafiqalmumin) |
-| **Trip Go App** | Travel/Booking | [🔗 Google Play](https://play.google.com/store/apps/details?id=com.novelcompany.trip_go) |
-| **Test Management** | Educational | [🔗 Google Play](https://play.google.com/store/apps/details?id=com.codeforce.TestManagement) |
+| **Rafiq Al Mumin** | Religion & Utility | [🔗 Google Play](https://play.google.com/store/apps/details?id=com.mahmoudrabie.rafiqalmumin) |
+| **Trip Go App** | Travel & Logistics | [🔗 Google Play](https://play.google.com/store/apps/details?id=com.novelcompany.trip_go) |
+| **Test Management** | Business & EdTech | [🔗 Google Play](https://play.google.com/store/apps/details?id=com.codeforce.TestManagement) |
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### 🛠️ Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
@@ -49,23 +49,20 @@ A Computer Science Graduate (Excellent Grade in Graduation Project) and a result
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-- **Core:** OOP, Design Patterns, Unit Testing, Performance Optimization.
-- **Advanced:** Real-time Updates (Socket.io), Google Maps API, Push Notifications.
-
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Real-time Activity
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" alt="Mahmoud's Stats" />
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical" alt="Langs" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📞 Contact Information
+### 📞 Contact & Collaboration
 * **WhatsApp/Mobile:** [+201153562994](https://wa.me/201153562994)
 * **LinkedIn:** [Mahmoud Mohamed Rabie](https://www.linkedin.com/in/mahmoud-mohammed-4009711b3)
 * **Email:** mahmoudrabea082@gmail.com
 
-*"Crafting smooth digital experiences through clean and efficient code."*
+*"Committed to writing clean, maintainable, and efficient code that solves real-world problems."*
