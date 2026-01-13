@@ -31,25 +31,32 @@ I am a dedicated **Senior Mobile Developer** specializing in **Flutter** with **
 
 ---
 
+### 📊 GitHub Ecosystem & Proficiency
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" width="400px" alt="Stats" />
+      </td>
+      <td align="center">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical&hide_border=false" width="350px" alt="Langs" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabie97&theme=radical" width="760px" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🛠️ Other Key Projects & Solutions
 * 🏢 **Aminco (HR System):** Developed a specialized HR management app featuring **Biometric/Fingerprint authentication**.
 * 🚛 **Logistics & ERP:** Integrated **Odoo ERP** with mobile solutions and built **Warehouse/Trip Management** systems.
 * 🚗 **Go Car:** Real-time vehicle tracking and rental management system.
 * 💬 **Social & Chat:** Built real-time communication platforms using **Socket.io**.
 * 🛒 **E-commerce:** Developed full-featured shopping apps with **Stripe/Telr** payment gateways.
-
----
-
-### 📊 GitHub Activity & Skills Distribution
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical&hide_border=false" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" alt="Mahmoud's Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabie97&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
