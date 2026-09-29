@@ -1,82 +1,131 @@
 # Hi there, I'm Mahmoud Rabie 👋
-### Senior Flutter Developer | Android & iOS Expert | Engineering Graduate
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mahmoud-mohammed-4009711b3">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://wa.me/201153562994">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="mailto:mahmoudrabea082@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Rank-A%2B-brightgreen?style=for-the-badge&logo=github" />
-</p>
+### Senior Flutter Developer | Android & iOS | 4+ Years of Experience
+
+Mobile Developer specializing in **Flutter & Dart**, building production-ready applications for **Android and iOS** from scratch to deployment.
+
+I have **4+ years of professional experience** working on mobile applications, APIs, real-time systems, payment integrations, notifications, and ERPNext/Frappe-based solutions.
 
 ---
 
-### 📖 About Me
-I am a dedicated **Senior Mobile Developer** specializing in **Flutter** with **3+ years** of professional experience. I build high-performance, scalable applications for both **iOS and Android** from scratch to production.
+## 👨‍💻 About Me
 
-* 🏗️ **Architecture:** Expert in **Clean Architecture** & **SOLID Principles**.
-* 🤖 **AI Enthusiast:** Deeply involved in **Machine Learning, Deep Learning, and NLP** fundamentals.
-* 🎓 **Engineering:** Graduate of **Menofia University** (Computer Engineering) with an **Excellent** grade in my graduation project.
-
----
-
-### 📱 Featured Commercial Apps (On Stores)
-| App Name | Category | Key Features | Link |
-| :--- | :--- | :--- | :--- |
-| **Rafiq Al Mumin** | Islamic | Prayer times, Quran, Azkar, Qibla | [🔗 Play Store](https://play.google.com/store/apps/details?id=com.mahmoudrabie.rafiqalmumin) |
-| **Trip Go** | Travel | Trip management, Real-time tracking | [🔗 Play Store](https://play.google.com/store/apps/details?id=com.novelcompany.trip_go) |
-| **Test Management**| EdTech | Exam system, Analytics dashboard | [🔗 Play Store](https://play.google.com/store/apps/details?id=com.codeforce.TestManagement) |
+* 📱 **4+ years** of professional experience in Mobile Development
+* 🚀 Flutter Developer specialized in **Android & iOS**
+* 🏗️ Clean Architecture, SOLID & scalable application architecture
+* 🔌 REST APIs, WebSockets & real-time applications
+* 💳 Payment integrations and in-app purchases
+* 🔔 Firebase Cloud Messaging & push notifications
+* 🏢 ERPNext / Frappe integrations and mobile solutions
+* 🤖 Machine Learning fundamentals & currently developing my ML skills
+* 🎓 Computer Engineering Graduate – Menofia University
 
 ---
 
-### 🛠️ Other Key Projects & Solutions
-* 🏢 **Aminco (HR System):** Developed a specialized HR management app featuring **Biometric/Fingerprint authentication**.
-* 🚛 **Logistics & ERP:** Integrated **Odoo ERP** with mobile solutions and built **Warehouse/Trip Management** systems.
-* 🚗 **Go Car:** Real-time vehicle tracking and rental management system.
-* 💬 **Social & Chat:** Built real-time communication platforms using **Socket.io**.
-* 🛒 **E-commerce:** Developed full-featured shopping apps with **Stripe/Telr** payment gateways.
+## 📱 Apps Published on Stores
+
+### My Personal Apps
+
+| App                | Platform      | Description                                          |
+| ------------------ | ------------- | ---------------------------------------------------- |
+| **Rafiq Al Mumin** | Android       | Quran, Azkar, Prayer Times, Qibla & Islamic features |
+| **Trip Go**        | Android       | Travel & trip management application                 |
+| **Quizzy**         | Android & iOS | Quiz and test management application                 |
+
+**Store Links:**
+
+* 📱 [Rafiq Al Mumin – Google Play](YOUR_LINK)
+* ✈️ [Trip Go – Google Play](YOUR_LINK)
+* 📝 [Quizzy – Google Play](YOUR_LINK)
+* 🍎 [Quizy – Apple App Store](YOUR_APPLE_LINK)
 
 ---
 
-### 📊 GitHub Ecosystem & Proficiency
+## 🏢 Professional Experience
+
+### Mobile Development
+
+* Building Flutter applications from scratch to production.
+* Android & iOS development and store releases.
+* API integration and backend communication.
+* Real-time tracking and communication using WebSockets / Socket.io.
+* Push notifications using Firebase Cloud Messaging.
+* Payment integrations and subscription systems.
+* Google Maps and location-based features.
+
+### ERPNext / Frappe
+
+* Developing mobile applications integrated with ERPNext.
+* HR & attendance management systems.
+* Purchasing and supplier applications.
+* REST API and webhook integrations.
+* Data automation and Python scripting.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+* Dart
+* Flutter
+* Python
+* Basic Machine Learning
+
+**State Management**
+
+* BLoC
+* Cubit
+* Provider
+
+**Architecture**
+
+* Clean Architecture
+* SOLID Principles
+* Design Patterns
+
+**Backend & APIs**
+
+* REST APIs
+* Dio
+* Firebase
+* Supabase
+* WebSockets / Socket.io
+* ERPNext / Frappe
+
+**Integrations**
+
+* Google Maps
+* Firebase Cloud Messaging
+* Payment Gateways
+* Google Play Billing
+* Apple In-App Purchases
+* Apple Pay
+
+**Tools**
+
+* Git / GitHub / Bitbucket
+* Jira
+* Swagger
+* Android Studio
+* Xcode
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=radical&count_private=true" width="400px" alt="Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact&theme=radical&hide_border=false" width="350px" alt="Langs" />
-      </td>
-    </tr>
-  </table>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudrabie97&theme=radical" width="760px" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mahmoudrabie97&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudrabie97&layout=compact" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Skills Summary
-- **State Management:** BLoC, Cubit, Provider.
-- **Backend & APIs:** Firebase, REST APIs (Dio), WebSockets (Socket.io).
-- **Integrations:** Google Maps API, Payment Gateways (Stripe, Telr), Push Notifications (FCM).
-- **Business Logic:** Odoo Customization, Biometric Auth, Real-time Tracking.
+## 📫 Let's Connect
 
----
-
-### 📞 Let's Connect
-* 📱 **WhatsApp:** [+20 115 356 2994](https://wa.me/201153562994)
-* 📧 **Email:** mahmoudrabea082@gmail.com
-* 🔗 **LinkedIn:** [Mahmoud Mohamed Rabie](https://www.linkedin.com/in/mahmoud-mohammed-4009711b3)
-
-*"The best way to predict the future is to invent it."*
+📧 **Email:** [mahmoudrabea082@gmail.com](mailto:mahmoudrabea082@gmail.com)
+📱 **WhatsApp:** +20 115 356 2994
+💼 **LinkedIn:** Mahmoud Mohamed Rabie
 
 ---
 
